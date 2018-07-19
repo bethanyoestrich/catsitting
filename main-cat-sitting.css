@@ -1,9 +1,8 @@
 html{
-    background-color:#7f8c8d;
+    background-color:#ecf0f1;
     color: #d35400;
     font-family: 'Chela One', cursive;
     font-weight: 300; 
-    font-size: 20px; 
     text-rendering: optimizeLegibility;
     text-align: center;
 }
@@ -14,6 +13,7 @@ li {
     list-style:none; 
 }
 .cat-bios{
+    background-color:#bdc3c7; 
     display: inline-block; 
     text-align: center; 
     margin-right:auto; 
@@ -34,4 +34,16 @@ img{
     border-radius:50%; 
     margin-left: auto; 
     margin-right: auto; 
+}
+
+h1{
+   font-size:100px; 
+}
+
+h2{
+    font-size:60px;   
+}
+
+h3{
+    font-size: 30px; 
 }
